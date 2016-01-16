@@ -41,6 +41,9 @@ and non-blocking I/O.
 
 channel9.msdn [codechat 050](https://channel9.msdn.com/Shows/codechat/050) - interview with Matthew Podwysocki
 
+[reactive conference 2015](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg?feature=relmfu)
+* youtube [Paul Taylor](https://www.youtube.com/watch?v=QhjALubBQPg)
+
 ============================================================
 
 ## [Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
