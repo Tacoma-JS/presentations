@@ -37,7 +37,9 @@ and/or events and adds operators that allow you to compose
 sequences together declaratively while abstracting away
 concerns about things like low-level threading,
 synchronization, thread-safety, concurrent data structures,
-and non-blocking I/O. 
+and non-blocking I/O.
+
+channel9.msdn [codechat 050](https://channel9.msdn.com/Shows/codechat/050) - interview with Matthew Podwysocki
 
 ============================================================
 
